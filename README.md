@@ -1,1 +1,1 @@
-# Attendance-App
+# Disease Prediction using ML
